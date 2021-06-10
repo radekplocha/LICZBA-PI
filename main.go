@@ -1,3 +1,7 @@
+// AUTOR : Radosław Płocha 
+// Grupa 3
+// Liczba PI
+
 package main
 
 import (
